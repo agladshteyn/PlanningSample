@@ -1,0 +1,128 @@
+{
+	"@type":"Hierarchy",
+	"Name":"z_Hierarchy",
+	"Elements":
+	[
+		{
+			"Name":"Corp Dept Natural Class EBITDA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Dept Natural Class EBITDA_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Dept Natural Class EBITDA_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Alloc Accounts",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Alloc Accounts_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Alloc Accounts_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Income Statement",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Income Statement_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Income Statement_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supplemental Revenue",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supplemental Revenue_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supplemental Revenue_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Functional EBITDA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Functional EBITDA_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Functional EBITDA_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BU Headcount",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BU Headcount_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BU Headcount_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Free Cash Flow",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Free Cash Flow_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Free Cash Flow_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA with Contr",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA with Contr_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA with Contr_Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Working Capital",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Working Capital_View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Working Capital_Variance",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

@@ -1,0 +1,606 @@
+{
+	"@type":"Hierarchy",
+	"Name":"mheYear",
+	"Elements":
+	[
+		{
+			"Name":"Total Years",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2015",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2014",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2013",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2012",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LTD Years",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"BUD Years",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LTD 2016",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"LTD 2015",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"LTD 2014",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"LTD 2013",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"LTD 2012",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2011",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2009",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2008",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2007",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2006",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2005",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2004",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2002",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2001",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2000",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2015",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2014",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2013",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Years",
+			"ComponentName":"2012",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD Years",
+			"ComponentName":"LTD 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD Years",
+			"ComponentName":"LTD 2015",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD Years",
+			"ComponentName":"LTD 2014",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD Years",
+			"ComponentName":"LTD 2013",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD Years",
+			"ComponentName":"LTD 2012",
+			"Weight":1
+		},
+		{
+			"ParentName":"BUD Years",
+			"ComponentName":"2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"BUD Years",
+			"ComponentName":"2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"BUD Years",
+			"ComponentName":"2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"BUD Years",
+			"ComponentName":"2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"BUD Years",
+			"ComponentName":"2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2015",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2014",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2013",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2012",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2011",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2010",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2009",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2008",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2007",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2006",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2005",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2004",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2003",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2002",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2001",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2016",
+			"ComponentName":"2000",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2015",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2014",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2013",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2012",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2011",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2010",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2009",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2008",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2007",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2006",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2005",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2004",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2003",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2002",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2001",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2015",
+			"ComponentName":"2000",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2014",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2013",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2012",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2011",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2010",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2009",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2008",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2007",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2006",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2005",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2004",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2003",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2002",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2001",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2014",
+			"ComponentName":"2000",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2013",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2012",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2011",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2010",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2009",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2008",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2007",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2006",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2005",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2004",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2003",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2002",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2001",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2013",
+			"ComponentName":"2000",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2012",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2011",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2010",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2009",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2008",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2007",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2006",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2005",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2004",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2003",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2002",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2001",
+			"Weight":1
+		},
+		{
+			"ParentName":"LTD 2012",
+			"ComponentName":"2000",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

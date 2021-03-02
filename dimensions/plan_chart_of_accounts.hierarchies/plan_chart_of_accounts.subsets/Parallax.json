@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Parallax",
+	"Expression":"{[plan_chart_of_accounts].[41101],[plan_chart_of_accounts].[42201],[plan_chart_of_accounts].[41101],[plan_chart_of_accounts].[42201],[plan_chart_of_accounts].[51001]}"
+}

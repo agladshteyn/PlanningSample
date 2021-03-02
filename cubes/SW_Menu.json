@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"SW_Menu",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('SW_MenuFct')"
+		},
+		{
+			"@id":"Dimensions('SW_MenuGrp')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"SW_Menu.views/View1.json"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Staples_m",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Staples_m')/Hierarchies('Staples_m')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Staples_m.hierarchies/Staples_m.json"
+	]
+}

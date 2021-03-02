@@ -1,0 +1,80 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+vCube = 'Staples';
+vPID_Dim = 'PID';
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+
+vElement  = PID;
+
+IF( DIMIX(  vPID_Dim  , vElement  ) = 0 );
+    DimensionElementInsert( vPID_Dim, '', vElement, 'N');
+ENDIF;
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+CELLPUTN( V1, vCube, PID, 'Item Count' );
+CELLPUTN( V2, vCube, PID, 'Ship Priority' );
+CELLPUTS( V3, vCube, PID, 'Order Priority' );
+CELLPUTS(  V4, vCube, PID, 'Order Status' );
+CELLPUTN( V5, vCube, PID, 'Order Quantity' );
+CELLPUTN( V6, vCube, PID, 'Sales Total' );
+CELLPUTN( V7, vCube, PID, 'Discount' );
+CELLPUTN( V8, vCube, PID, 'Tax Rate' );
+CELLPUTS( V9, vCube, PID, 'Ship Mode' );
+CELLPUTN( V10, vCube, PID, 'Fill Time' );
+CELLPUTN( V11, vCube, PID, 'Gross Profit' );
+CELLPUTN( V12, vCube, PID, 'Price' );
+CELLPUTN( V13, vCube, PID, 'Ship Handle Cost' );
+CELLPUTS( V14, vCube, PID, 'Employee Name' );
+CELLPUTS( V15, vCube, PID, 'Employee Dept' );
+CELLPUTS( V16, vCube, PID, 'Manager Name' );
+CELLPUTN( V17, vCube, PID, 'Employee Yrs Exp' );
+CELLPUTN( V18, vCube, PID, 'Employee Salary' );
+CELLPUTS( V19, vCube, PID, 'Customer Name' );
+CELLPUTS( V20, vCube, PID, 'Customer State' );
+CELLPUTS( V21, vCube, PID, 'Call Center Region' );
+CELLPUTN( V22, vCube, PID, 'Customer Balance' );
+CELLPUTS( V23, vCube, PID, 'Customer Segment' );
+CELLPUTS( V24, vCube, PID, 'Prod Type1' );
+CELLPUTS( V25, vCube, PID, 'Prod Type2' );
+CELLPUTS( V26, vCube, PID, 'Prod Type3' );
+CELLPUTS( V27, vCube, PID, 'Prod Type4' );
+CELLPUTS( V28, vCube, PID, 'Product Name' );
+CELLPUTS( V29, vCube, PID, 'Product Container' );
+CELLPUTS( V30, vCube, PID, 'Ship Promo' );
+CELLPUTS( V31, vCube, PID, 'Supplier Name' );
+CELLPUTN( V32, vCube, PID, 'Supplier Balance' );
+CELLPUTS( V33, vCube, PID, 'Supplier Region' );
+CELLPUTS( V34, vCube, PID, 'Supplier State' );
+CELLPUTS( V35, vCube, PID, 'Order ID' );
+CELLPUTS( V36, vCube, PID, 'Order Year' );
+CELLPUTN( V37, vCube, PID, 'Order Month' );
+CELLPUTN( V38, vCube, PID, 'Order Day' );
+CELLPUTS( V39, vCube, PID, 'Order Date' );
+CELLPUTS( V40, vCube, PID, 'Order Quarter' );
+CELLPUTN( V41, vCube, PID, 'Product Base Margin' );
+CELLPUTS( V42, vCube, PID, 'Product ID' );
+CELLPUTN( V43, vCube, PID, 'Receive Time' );
+CELLPUTS( V44, vCube, PID, 'Received Date' );
+CELLPUTS( V45, vCube, PID, 'Ship Date' );
+CELLPUTN( V46, vCube, PID, 'Ship Charge' );
+CELLPUTN( V47, vCube, PID, 'Total Cycle Time' );
+CELLPUTS( V48, vCube, PID, 'Product In Stock' );
+CELLPUTS( V50, vCube, PID, 'Market Segment' );
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion

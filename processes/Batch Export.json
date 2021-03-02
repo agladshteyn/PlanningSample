@@ -1,0 +1,19 @@
+{
+	"@type":"Process",
+	"Name":"Batch Export",
+	"Code@Code.link":"Batch Export.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"pBatch",
+			"Prompt":"",
+			"Value":"",
+			"Type":"String"
+		}
+	],
+	"Variables":[]
+}

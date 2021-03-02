@@ -1,0 +1,960 @@
+{
+	"@type":"Hierarchy",
+	"Name":"z_BU",
+	"Elements":
+	[
+		{
+			"Name":"All_BU",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Corp Dept Natural Class EBITDA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MHE SOP Line Up(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HPI GROUP - CONT OPS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HIGHER EDUCATION(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MCGRAW-HILL/PROFESSIONAL(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"INTERNATIONAL PUBLISHING(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HPI OTHER(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCHOOL EDUCATION GROUP - CONT OPS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCHOOL EDUCATION GROUP OTHER(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCHOOL GROUP(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NON-OPERATING CHARGES-SEG(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB/MCGRAW-HILL CONTINUING OPERATIONS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEGMENT OTHER - CONT OPS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEGMENT ADMIN(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCHOOL EDUCATION GROUP - DISC OPS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB/MCGRAW HILL DISCONTINUED OPERATIONS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CORPORATE TRANSFERS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Communications(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DPG - Corporate(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Finance(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Supply chain(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Human Resources(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Technology(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Legal(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operations(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"President(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Real Estate(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Corporate(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NON-OPERATING CHARGES-HPI(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCHOOL EDUCATION GROUP CORP(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TOTAL GEORGIA STRUCTURE - COPS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GEORGIA STRUCTURE(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ELIMINATIONS(Corp Dept Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Alloc Accounts",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total MHE(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total HPI(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Higher Education(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HPI OTHER(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total SEG(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEG Corp(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total SGMT(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SGMT Admin(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SGMT Transfers(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Corp Offsets(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEG Other(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total SEG Disc Ops(Corp Alloc Accounts)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Income Statement",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MHE(Income Statement)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Higher Education(Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other(Natural Class EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supplemental Revenue",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Higher Education(Supplemental Revenue)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(Supplemental Revenue)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(Supplemental Revenue)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(Supplemental Revenue)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other(Supplemental Revenue)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(Supplemental Revenue)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Functional EBITDA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Higher Education(Functional EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(Functional EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(Functional EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(Functional EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(Functional EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other(Functional EBITDA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BU Headcount",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Higher Education(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MHGE Other(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MHSE Other(BU Headcount)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Free Cash Flow",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Higher Education(Free Cash Flow)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(Free Cash Flow)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(Free Cash Flow)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(Free Cash Flow)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(Free Cash Flow)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other(Free Cash Flow)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HoldCo(Free Cash Flow)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA with Contr",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Higher Education(Natural Class EBITDA with Contr)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(Natural Class EBITDA with Contr)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(Natural Class EBITDA with Contr)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(Natural Class EBITDA with Contr)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(Natural Class EBITDA with Contr)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other(Natural Class EBITDA with Contr)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Working Capital",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Higher Education(Working Capital)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Professional(Working Capital)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"International(Working Capital)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"School(Working Capital)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTB - Continuing Ops(Working Capital)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other(Working Capital)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HoldCo(Working Capital)",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Corp Dept Natural Class EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Corp Alloc Accounts",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Income Statement",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Natural Class EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Supplemental Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Functional EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"BU Headcount",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Free Cash Flow",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Natural Class EBITDA with Contr",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_BU",
+			"ComponentName":"Working Capital",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"MHE SOP Line Up(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"HPI GROUP - CONT OPS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"HIGHER EDUCATION(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"MCGRAW-HILL/PROFESSIONAL(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"INTERNATIONAL PUBLISHING(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"HPI OTHER(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SCHOOL EDUCATION GROUP - CONT OPS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SCHOOL EDUCATION GROUP OTHER(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SCHOOL GROUP(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"NON-OPERATING CHARGES-SEG(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"CTB/MCGRAW-HILL CONTINUING OPERATIONS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SEGMENT OTHER - CONT OPS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SEGMENT ADMIN(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SCHOOL EDUCATION GROUP - DISC OPS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"CTB/MCGRAW HILL DISCONTINUED OPERATIONS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"CORPORATE TRANSFERS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Corp Communications(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DPG - Corporate(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Finance(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Global Supply chain(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Human Resources(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Global Technology(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Legal(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Operations(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"President(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Real Estate(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Total Corporate(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"NON-OPERATING CHARGES-HPI(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SCHOOL EDUCATION GROUP CORP(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"TOTAL GEORGIA STRUCTURE - COPS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"GEORGIA STRUCTURE(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"ELIMINATIONS(Corp Dept Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Total MHE(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Total HPI(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Higher Education(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Professional(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"International(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"HPI OTHER(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Total SEG(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"School(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"SEG Corp(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"CTB - Continuing Ops(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Total SGMT(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"SGMT Admin(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"SGMT Transfers(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Total Corp Offsets(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"SEG Other(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"Total SEG Disc Ops(Corp Alloc Accounts)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"MHE(Income Statement)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"Higher Education(Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"Professional(Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"International(Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"School(Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"CTB - Continuing Ops(Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"Other(Natural Class EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"Higher Education(Supplemental Revenue)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"Professional(Supplemental Revenue)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"International(Supplemental Revenue)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"School(Supplemental Revenue)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"Other(Supplemental Revenue)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"CTB - Continuing Ops(Supplemental Revenue)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"Higher Education(Functional EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"Professional(Functional EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"International(Functional EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"School(Functional EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"CTB - Continuing Ops(Functional EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"Other(Functional EBITDA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"Higher Education(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"Professional(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"International(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"School(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"MHGE Other(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"Corporate(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"CTB - Continuing Ops(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"MHSE Other(BU Headcount)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"Higher Education(Free Cash Flow)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"Professional(Free Cash Flow)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"International(Free Cash Flow)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"School(Free Cash Flow)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"CTB - Continuing Ops(Free Cash Flow)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"Other(Free Cash Flow)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"HoldCo(Free Cash Flow)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"Higher Education(Natural Class EBITDA with Contr)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"Professional(Natural Class EBITDA with Contr)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"International(Natural Class EBITDA with Contr)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"School(Natural Class EBITDA with Contr)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CTB - Continuing Ops(Natural Class EBITDA with Contr)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"Other(Natural Class EBITDA with Contr)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"Higher Education(Working Capital)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"Professional(Working Capital)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"International(Working Capital)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"School(Working Capital)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"CTB - Continuing Ops(Working Capital)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"Other(Working Capital)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"HoldCo(Working Capital)",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

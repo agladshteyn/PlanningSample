@@ -1,0 +1,51 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+vNumRecord = 0;
+vRecordsWritten = 0;
+vFileName = 'a237f834-4f69-451b-82d1-49068dd7a653_NEW1.blb';
+DatasourceASCIIDelimiter = ';';
+ViewExtractSkipCalcsSet('plan_BudgetPlan','636693622531202954',0);
+ViewExtractSkipRuleValuesSet('plan_BudgetPlan','636693622531202954',0);
+ViewExtractSkipZeroesSet('plan_BudgetPlan','636693622531202954',1);
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+
+vOutputRecord = 1;
+IF (pSkip > 0 & vNumRecord + 1 <= pSkip);
+    vOutputRecord = 0;
+ELSEIF ( pTop > 0 & vRecordsWritten >= pTop  );
+    ProcessBreak;
+ENDIF;
+
+IF ( vOutputRecord = 1 );
+  vVal = value;
+  IF ( DTYPE( 'plan_time', col7) @= 'N' % DTYPE( 'plan_time', col7) @= 'C');
+    vVal = NumberToString(NUMBR(value));
+  ENDIF;
+  vStr = TRIM(STR(DIMIX( 'plan_chart_of_accounts', col4 ),8,0)) | ',' |
+  TRIM(STR(DIMIX( 'plan_time', col7 ),8,0));
+  vOutput = vStr | '";"' | vVal | CHAR(3);
+  SetOutputCharacterSet(vFileName, 'TM1CS_UTF8');
+  TextOutput(vFileName, vOutput);
+  vRecordsWritten = vRecordsWritten + 1;
+ENDIF;
+
+vNumRecord = vNumRecord + 1;
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion

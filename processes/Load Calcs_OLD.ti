@@ -1,0 +1,62 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+vCube = 'Calcs';
+vMeasure = 'Calcs_m';
+
+
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+vKey = key;
+
+CELLPUTN( num0, vCube, vKey, 'num0' );
+CELLPUTN( num1, vCube, vKey,  'num1' );
+CELLPUTN( num2, vCube, vKey, 'num2' );
+CELLPUTN( num3, vCube, vKey, 'num3' );
+CELLPUTN( num4, vCube, vKey,  'num4' );
+
+CELLPUTS( str0, vCube, vKey, 'str0' );
+CELLPUTS( str1, vCube, vKey, 'str1' );
+CELLPUTS( str2, vCube, vKey, 'str2' );
+CELLPUTS( str3, vCube, vKey, 'str3' );
+
+
+ CELLPUTN( int0, vCube, vKey, 'int0' );
+ CELLPUTN( int1, vCube, vKey, 'int1' );
+ CELLPUTN( int2, vCube, vKey, 'int2' );
+ CELLPUTN( int3, vCube, vKey, 'int3' );
+ 
+ CELLPUTN( bool0, vCube, vKey, 'bool0' );
+ CELLPUTN( bool1, vCube, vKey,  'bool1' );
+ CELLPUTN( bool2, vCube, vKey, 'bool2' );
+ CELLPUTN( bool3, vCube, vKey, 'bool4' );
+ 
+CELLPUTS( date0, vCube, vKey, 'date0' );
+CELLPUTS( date1, vCube, vKey, 'date1' );
+CELLPUTS( date2, vCube, vKey, 'date2' );
+CELLPUTS( date3, vCube, vKey, 'date3' );
+
+CELLPUTS( time0, vCube, vKey, 'time0' );
+CELLPUTS( time1, vCube, vKey, 'time1' );
+
+CELLPUTS( datetime0, vCube, vKey, 'datetime0' );
+CELLPUTS( datetime1, vCube, vKey, 'datetime1' );
+CELLPUTS( zzz, vCube, vKey, 'zzz' );
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion

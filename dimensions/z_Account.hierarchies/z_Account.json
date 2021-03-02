@@ -1,0 +1,3187 @@
+{
+	"@type":"Hierarchy",
+	"Name":"z_Account",
+	"Elements":
+	[
+		{
+			"Name":"All_Acc",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Corp Dept Natural Class EBITDA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"41000000 - REVENUE - GROSS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"45000000 - RETURNS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"46000000 - BILLED FREIGHT & HANDLING AND PASS THROUGH REVENUE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"51000000 - MANUFACTURING COST",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"52000000 - ROYALTY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"53000000 - DIRECT CHARGES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"82111004 - ALLOC - CORP D&A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"82111005 - ALLOC - CORP INTERNAL RENT D&A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fringe Benefits - (DE_C3)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bonus and Commissions - ex SBC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C13_1301 - CAA Alloc SBC Accounts",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP01 - CRP Subtotal for Corp Communications",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP02 - CRP Subtotal for DPG Indirect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP03 - CRP Subtotal for Finance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP05 - CRP Subtotal for Global Supply Chain Mgmt",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP06 - CRP Subtotal for Human Resources",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP07 - CRP Subtotal for Information Technology",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP08 - CRP Subtotal for Legal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP09 - CRP Subtotal for Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP10 - CRP Subtotal for President",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP11 - CRP Subtotal for Real Estate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP13 - CRP Subtotal for SBC and D&A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B1 - Travel and Entertainment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B10 - Postage, Stationery, and Supplies",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B11 - Equipment Rental and Maintenance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B12 - Legal, Audit, and Professional Fees",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B14 - Edit, Mfg, Insurance, Reprod and Dupl",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B15 - Carriage and Warehouse Charges",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B2 - Other Employee Expense",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B3 - Temporary Help and Commissions",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B4 - Samples",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B5 - Free with Order",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B6 - All Other Promotion",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B7.3 - All Other Rent",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B8 - Telephones and Data Processing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B8.2 - IT Direct",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B8.3 - All Other Telephone & Data Processing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B9 - Misc Svcs and Other Office Expense",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_C1 - Salaries and Wages - Permanent",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_C3 - Fringe Benefits",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_C5 - Other Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EB_CHGDEF - Change in Deferred",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PTOTFPW - Filled Project Workers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PTOTFXPW - Filled excluding Project Workers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S0000000 - ENCF GAAP EBITDA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S1000000 - ENCF EBITDA - Post Plate Adjusted",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S2000000 - ENCF Less: Plate Investment Cash Costs",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S3000000 - ENCF Less: Change in Deferred",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S4000000 - ENCF Less: Change in Deferred Royalties",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA110000 - ENCF Gross Margin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA111000 - ENCF Cash Revenue",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA112000 - ENCF Cost of Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA112100 - ENCF Change in Deferred Royalties",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA122000 - ENCF Total Expense After Allocations & Liquidations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA122100 - ENCF Total Expense Before Allocations & Liquidations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA122110 - ENCF Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA122200 - ENCF Segment Allocations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA122300 - ENCF IPG, CSS & Other Allocations & Transfers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA123100 - ENCF Provisions for Reserves",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA123200 - ENCF Other Income Regular",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA123300 - ENCF Other Income Foreign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SA123400 - ENCF All Other Mics Income/Expense",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SADE_B16 - ENCF (ALT DE_BE16) All Other Expenses",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SADE_B17_1_3 - ENCF Occ. and Maint. - TSA Rent with All Other Rent",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SC100000 - ENCF Plate Investment Cash Costs",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV100000 - ENCF Less: Interest Income/Expense - Net",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV200000 - ENCF Less: Provision - Income Taxes",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV300000 - ENCF Less: Depreciation, Amortization & Plate Investment Amortization",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV400000 - ENCF Less: Stock Based Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV600000 - ENCF Less: Asset/Legal Entity Dispositions Gain/Loss",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV800000 - ENCF Less: Non-Operating Gain/Loss on Sale",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SVB00000 - ENCF Net Income",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SVC00000 - ENCF Net Income Adjustments (PA/IMO/Hold Co/Other)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"54000000 - OTHER MANUFACTURING COSTS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B7.1 - Occupancy and Maintenance - TSA Rent",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV700000 - ENCF Less: Dividends to Non Controlling Interest",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SV500000 - ENCF Less: Aleks",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp Alloc Accounts",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"D_13 - Total SBC and D&A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1105 - CAA Finance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1202 - CAA Accounting Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1204 - CAA Controllers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1207 - CAA Treasury",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1208 - CAA Tax",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1210 - CAA Executive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1213 - CAA Internal Audit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1214 - CAA Fin'l Analysis Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C05_1101 - CAA DST",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C05_1203 - CAA GPMS - Mfg",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C05_1217 - CAA Global Supply Chain",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C07_0711 - CAA IT Direct",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C07_0712 - CAA IT Indirect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C09_1106 - CAA CC&P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C09_1107 - CAA Op Excellence",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C09_1205 - CAA GPMS - Proc",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C09_1212 - CAA Security",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C11_1111 - CAA Real Estate Liq",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C11_1216 - CAA Real Estate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C13_1302 - CAA Alloc D&A Accounts",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C13_1303 - CAA Rent D&A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_TOT_ALLOC - Total Allocation Expense Functions (CRP & IPG)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1110 - CAA Dev Fund",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1113 - CAA R&D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1211 - CAA Investor Relations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_CRP89 - CRP Subtotal for Old Allocations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D_C03_1219 - CAA Strategy & Business Development",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Income Statement",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"40000000 - REVENUE - NET",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"50000000 - COST OF SALES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"60000000 - PREPUB, PROVISIONS & OTHER COSTS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"61000000 - PREPUBLICATION COST",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"62000000 - PROVISION FOR RESERVES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"64000000 - INTERNAL COMMISSION - EXPENSE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"65000000 - INTERNAL COMMISSION - INCOME",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"66000000 - OTHER INCOME REGULAR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"67000000 - OTHER INCOME FOREIGN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"77211000 - AMORTIZATION OF DEFERRED COSTS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"78100000 - DEPRECIATION",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"78200000 - AMORTIZATION OF INTANGIBLES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"91000000 - INTEREST INCOME/EXPENSE - NET",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92000000 - OTHER EXPENSE - NET",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92315900 - ALL OTHER EXPENSE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92600000 - INTER-COMPANY INCOME/EXPENSE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"All Other Bonus & Commissions",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C_IBTI - Income Before Taxes on Income",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C_IFO - Income from Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C_NI - Net Income",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C_OpEX - Total Operating Expenses",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"COI00000 - Contribution of Inventory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_A - Total Exp after Alloc. & Liq.",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_A1 - Segment Allocation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_A2 - IPG, CSS Other Allocation and Transfers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B - Total Expense before Allocation and Liquidation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B13 - Depreciation, Amortization, and Goodwill",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B16 - All Other Expenses",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_B7 - Occupancy and Maintenance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE_C - Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EB_SBC - Stock Base Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GM000000 - Gross Margin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92315300 - (GAIN)/LOSS ON FOREIGN EXCHANGE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92315600 - ALL OTHER EXPENSE - NO REVALUE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"93000000 - PROVISION - INCOME TAXES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92315100 - (GAIN)/LOSS ON DISPOSITION",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"95000000 - NON-OPERATING INCOME/EXPENSE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92311200 - INCENTIVE COMPENSATION PLANS - SHORT TERM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92315400 - CORPORATE ACTIONS & RESERVES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"92315200 - AMORTIZATION OF INTANGIBLES BTL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Supplemental Revenue",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CR - Cash Revenue",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CR153 - Cash Revenue Traditional Print and Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CR2 - Cash Revenue - Digital",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CR4 - Cash Revenue - Custom Print",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DRREV - Revenue",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DRREV1 - Revenue - Traditional Print",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DRREV2 - Revenue - Digital",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DRREV3 - Revenue - Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DRREV4 - Revenue - Custom Print",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DRREV5 - Revenue - Custom Digital",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Functional EBITDA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EBITDA_DPG - Digital Platforms Group",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBITDA_DPG_INDIRECT - DPG Indirect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBITDA_INDIRECT_SERVICE_TOT - Indirect Service",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBITDA_IT_DIRECT - IT Direct",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBITDA_IT_INDIRECT - IT Indirect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R1000000 - EBFR EBITDA - Post Plate Adjusted",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA100000 - EBFR Income from Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA110000 - EBFR Gross Margin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA111000 - EBFR Cash Revenue",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA112000 - EBFR Cost of Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA112100 - EBFR Change in Deferred Royalties",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122000 - EBFR Total Expense After Allocations & Liquidations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122100 - EBFR Marketing / Selling",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122200 - EBFR Samples",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122300 - EBFR Editorial / EDP / Mechanical",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122400 - EBFR Digital Platforms Group",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122500 - EBFR Administrative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122600 - EBFR Technology",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA122700 - EBFR Direct Service",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA123100 - EBFR Provisions for Reserves",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA123200 - EBFR Other Income Regular",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA123300 - EBFR Other Income Foreign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA123400 - EBFR All Other Mics Income/Expense",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RC100000 - EBFR Plate Investment Cash Costs",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBITDA_DIRECT_SERVICE_TOT - Direct Service",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BU Headcount",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Free Cash Flow",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"VCF200000 - CF Cash Source / (Use) from WC excluding U/E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF210000 - CF (Incr) decr in Accounts Receivables",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF220000 - CF (Incr) decr in Inventory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF230000 - CF (Incr) decr in Prepaid & Other Current Assets",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF240000 - CF Incr (decr) in Accounts Payable",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF250000 - CF Incr (decr) in Accrued Royalty",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF260000 - CF Incr (decr) in Accrued Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF270000 - CF Incr (decr) in Other Current Liabilities",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF300000 - CF Operating Free Cash Flow",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF320000 - CF Gross Deferred Projects",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF400000 - CF Operating FCF with Cash Taxes and Adj.",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF500000 - CF Levered Free Cash Flow",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF600000 - CF Total Free Cash Flow",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF001 - CF Cash Taxes (Paid) / Received",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF018 - CF Maxen Sale",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF019 - CF BUSUU Investment (EMEA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF330000 - CF Capital Expenditures",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"10100000 - CASH AND EQUIVALENTS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF003 - CF Cash Interest (Paid) - Debt",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF004 - CF Cash Interest (Paid) - HoldCo Notes",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF005 - CF Principal payments on Term Loan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF010 - CF RSU Holder Dividend Payments",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF012 - CF Option Holder Dividend Payments",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF016 - CF Equity Repurchase",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF110000 - CF Adding Back IMO & HoldCo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF310000 - CF Capital Lease Principal Payments",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF510000 - CF Cash Interest (Paid) - Capital Leases",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF002 - CF Adjustments",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF006 - CF Principal payments on MHGE Parent Loan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF007 - CF Interest Rate Swaps",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF025 - CF MHGE Parent Loan Payment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF028 - CF Opco / Holdco Transfer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF008 - CF Revolver Borrowing/(Repayment)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VCF610000 - CF Legacy MHF Long-Term Incentive Payout",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF026 - CF International Cash Repatriation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF009 - CF Dividend Payments",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF013 - CF Net Proceeds on Long Term Debt",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF014 - CF Payment on Long Term Debt",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF015 - CF Author Royalty Buyout",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF027 - CF Redbird",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF017 - CF China EDU Sale",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF024 - CF Acquisition: Ryerson",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF020 - CF Acquisition: ALEKS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF022 - CF Acquisition: A9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NONGLCF023 - CF Acquisition: Engrade",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Natural Class EBITDA with Contr",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CDE_B8 - CONTRA Telephone and Data Processing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CS0000000 - CONTRA ENCF GAAP EBITDA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CS1000000 - CONTRA ENCF EBITDA - Post Plate Adjusted",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CS2000000 - CONTRA ENCF Less: Plate Investment Cash Costs",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CS3000000 - CONTRA ENCF Less: Change in Deferred",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CS4000000 - CONTRA ENCF Less: Change in Deferred Royalties",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA110000 - CONTRA ENCF Gross Margin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA111000 - CONTRA ENCF Cash Revenue",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA112000 - CONTRA ENCF Cost of Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA112100 - CONTRA ENCF Change in Deferred Royalties",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA122000 - CONTRA ENCF Total Expense After Allocations & Liquidations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA122100 - CONTRA ENCF Total Expense Before Allocations & Liquidations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA122110 - CONTRA ENCF Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA122200 - CONTRA ENCF Segment Allocations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA122300 - CONTRA ENCF IPG, CSS & Other Allocations & Transfers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA123100 - CONTRA ENCF Provisions for Reserves",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA123200 - CONTRA ENCF Other Income Regular",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA123300 - CONTRA ENCF Other Income Foreign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSA123400 - CONTRA ENCF All Other Mics Income/Expense",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSADE_B16 - CONTRA ENCF (ALT DE_BE16) All Other Expenses",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSADE_B17_1_3 - CONTRA ENCF Occ. and Maint. - TSA Rent with All Other Rent",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSC100000 - CONTRA ENCF Plate Investment Cash Costs",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV100000 - CONTRA ENCF Less: Interest Income/Expense - Net",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV300000 - CONTRA ENCF Less: Depreciation, Amortization & Plate Investment Amortization",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV400000 - CONTRA ENCF Less: Stock Based Compensation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSVB00000 - CONTRA ENCF Net Income",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV600000 - CONTRA ENCF Less: Fixed Asset/Legal Entity Disposition Gain/Loss",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV200000 - CONTRA ENCF Less: Provision - Income Taxes",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV800000 - CONTRA ENCF Less: Non-Operating Gain/Loss on Sale",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSVC00000 - CONTRA ENCF Net Income Adjustments (PA/IMO/Hold Co/Other)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV700000 - CONTRA ENCF Less: Dividends to Non Controlling Interest",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSV500000 - CONTRA ENCF Less: Aleks",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Working Capital",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ACC_ROY - Accrued Royalties",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ACCT_PAY - Accounts Payable",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AR_NR_NET - Accounts & Notes Receivable - Net",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TOT_INV_NET - Total Inventories - Net",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WC_ACC_COMP_RET - Accrued Compensation and Retirement Plans",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WC_Net - Net Working Capital Assets/(Liab)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WC_Net_excl - Net Working Capital Ex. U/E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WC_PPD_OTH - Prepaid & Other Current Assets",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WC_TOT_CURRLIAB_OTHER - Total Other Current Liabilities",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WC_UNREV - Unearned Revenue",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AIP Cash Incentives",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Corp Dept Natural Class EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Corp Alloc Accounts",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Income Statement",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Natural Class EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Supplemental Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Functional EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"BU Headcount",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Free Cash Flow",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Natural Class EBITDA with Contr",
+			"Weight":1
+		},
+		{
+			"ParentName":"All_Acc",
+			"ComponentName":"Working Capital",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"41000000 - REVENUE - GROSS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"45000000 - RETURNS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"46000000 - BILLED FREIGHT & HANDLING AND PASS THROUGH REVENUE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"51000000 - MANUFACTURING COST",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"52000000 - ROYALTY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"53000000 - DIRECT CHARGES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"82111004 - ALLOC - CORP D&A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"82111005 - ALLOC - CORP INTERNAL RENT D&A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Fringe Benefits - (DE_C3)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"Bonus and Commissions - ex SBC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_C13_1301 - CAA Alloc SBC Accounts",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP01 - CRP Subtotal for Corp Communications",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP02 - CRP Subtotal for DPG Indirect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP03 - CRP Subtotal for Finance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP05 - CRP Subtotal for Global Supply Chain Mgmt",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP06 - CRP Subtotal for Human Resources",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP07 - CRP Subtotal for Information Technology",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP08 - CRP Subtotal for Legal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP09 - CRP Subtotal for Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP10 - CRP Subtotal for President",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP11 - CRP Subtotal for Real Estate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"D_CRP13 - CRP Subtotal for SBC and D&A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B1 - Travel and Entertainment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B10 - Postage, Stationery, and Supplies",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B11 - Equipment Rental and Maintenance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B12 - Legal, Audit, and Professional Fees",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B14 - Edit, Mfg, Insurance, Reprod and Dupl",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B15 - Carriage and Warehouse Charges",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B2 - Other Employee Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B3 - Temporary Help and Commissions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B4 - Samples",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B5 - Free with Order",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B6 - All Other Promotion",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B7.3 - All Other Rent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B8 - Telephones and Data Processing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B8.2 - IT Direct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B8.3 - All Other Telephone & Data Processing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B9 - Misc Svcs and Other Office Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_C1 - Salaries and Wages - Permanent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_C3 - Fringe Benefits",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_C5 - Other Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"EB_CHGDEF - Change in Deferred",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"PTOTFPW - Filled Project Workers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"PTOTFXPW - Filled excluding Project Workers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"S0000000 - ENCF GAAP EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"S1000000 - ENCF EBITDA - Post Plate Adjusted",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"S2000000 - ENCF Less: Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"S3000000 - ENCF Less: Change in Deferred",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"S4000000 - ENCF Less: Change in Deferred Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA110000 - ENCF Gross Margin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA111000 - ENCF Cash Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA112000 - ENCF Cost of Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA112100 - ENCF Change in Deferred Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA122000 - ENCF Total Expense After Allocations & Liquidations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA122100 - ENCF Total Expense Before Allocations & Liquidations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA122110 - ENCF Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA122200 - ENCF Segment Allocations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA122300 - ENCF IPG, CSS & Other Allocations & Transfers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA123100 - ENCF Provisions for Reserves",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA123200 - ENCF Other Income Regular",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA123300 - ENCF Other Income Foreign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SA123400 - ENCF All Other Mics Income/Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SADE_B16 - ENCF (ALT DE_BE16) All Other Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SADE_B17_1_3 - ENCF Occ. and Maint. - TSA Rent with All Other Rent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SC100000 - ENCF Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV100000 - ENCF Less: Interest Income/Expense - Net",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV200000 - ENCF Less: Provision - Income Taxes",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV300000 - ENCF Less: Depreciation, Amortization & Plate Investment Amortization",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV400000 - ENCF Less: Stock Based Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV600000 - ENCF Less: Asset/Legal Entity Dispositions Gain/Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV800000 - ENCF Less: Non-Operating Gain/Loss on Sale",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SVB00000 - ENCF Net Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SVC00000 - ENCF Net Income Adjustments (PA/IMO/Hold Co/Other)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"54000000 - OTHER MANUFACTURING COSTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"DE_B7.1 - Occupancy and Maintenance - TSA Rent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV700000 - ENCF Less: Dividends to Non Controlling Interest",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"SV500000 - ENCF Less: Aleks",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Dept Natural Class EBITDA",
+			"ComponentName":"AIP Cash Incentives",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_13 - Total SBC and D&A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1105 - CAA Finance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1202 - CAA Accounting Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1204 - CAA Controllers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1207 - CAA Treasury",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1208 - CAA Tax",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1210 - CAA Executive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1213 - CAA Internal Audit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1214 - CAA Fin'l Analysis Planning",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C05_1101 - CAA DST",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C05_1203 - CAA GPMS - Mfg",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C05_1217 - CAA Global Supply Chain",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C07_0711 - CAA IT Direct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C07_0712 - CAA IT Indirect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C09_1106 - CAA CC&P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C09_1107 - CAA Op Excellence",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C09_1205 - CAA GPMS - Proc",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C09_1212 - CAA Security",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C11_1111 - CAA Real Estate Liq",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C11_1216 - CAA Real Estate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C13_1301 - CAA Alloc SBC Accounts",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C13_1302 - CAA Alloc D&A Accounts",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C13_1303 - CAA Rent D&A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP01 - CRP Subtotal for Corp Communications",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP02 - CRP Subtotal for DPG Indirect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP03 - CRP Subtotal for Finance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP05 - CRP Subtotal for Global Supply Chain Mgmt",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP06 - CRP Subtotal for Human Resources",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP07 - CRP Subtotal for Information Technology",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP08 - CRP Subtotal for Legal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP09 - CRP Subtotal for Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP10 - CRP Subtotal for President",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP11 - CRP Subtotal for Real Estate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_TOT_ALLOC - Total Allocation Expense Functions (CRP & IPG)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1110 - CAA Dev Fund",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1113 - CAA R&D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1211 - CAA Investor Relations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_CRP89 - CRP Subtotal for Old Allocations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corp Alloc Accounts",
+			"ComponentName":"D_C03_1219 - CAA Strategy & Business Development",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"40000000 - REVENUE - NET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"41000000 - REVENUE - GROSS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"45000000 - RETURNS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"46000000 - BILLED FREIGHT & HANDLING AND PASS THROUGH REVENUE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"50000000 - COST OF SALES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"51000000 - MANUFACTURING COST",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"52000000 - ROYALTY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"53000000 - DIRECT CHARGES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"60000000 - PREPUB, PROVISIONS & OTHER COSTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"61000000 - PREPUBLICATION COST",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"62000000 - PROVISION FOR RESERVES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"64000000 - INTERNAL COMMISSION - EXPENSE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"65000000 - INTERNAL COMMISSION - INCOME",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"66000000 - OTHER INCOME REGULAR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"67000000 - OTHER INCOME FOREIGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"77211000 - AMORTIZATION OF DEFERRED COSTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"78100000 - DEPRECIATION",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"78200000 - AMORTIZATION OF INTANGIBLES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"91000000 - INTEREST INCOME/EXPENSE - NET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92000000 - OTHER EXPENSE - NET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92315900 - ALL OTHER EXPENSE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92600000 - INTER-COMPANY INCOME/EXPENSE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"Fringe Benefits - (DE_C3)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"All Other Bonus & Commissions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"C_IBTI - Income Before Taxes on Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"C_IFO - Income from Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"C_NI - Net Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"C_OpEX - Total Operating Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"COI00000 - Contribution of Inventory",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_A - Total Exp after Alloc. & Liq.",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_A1 - Segment Allocation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_A2 - IPG, CSS Other Allocation and Transfers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B - Total Expense before Allocation and Liquidation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B1 - Travel and Entertainment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B10 - Postage, Stationery, and Supplies",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B11 - Equipment Rental and Maintenance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B12 - Legal, Audit, and Professional Fees",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B13 - Depreciation, Amortization, and Goodwill",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B14 - Edit, Mfg, Insurance, Reprod and Dupl",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B15 - Carriage and Warehouse Charges",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B16 - All Other Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B2 - Other Employee Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B3 - Temporary Help and Commissions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B4 - Samples",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B5 - Free with Order",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B6 - All Other Promotion",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B7 - Occupancy and Maintenance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B8 - Telephones and Data Processing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_B9 - Misc Svcs and Other Office Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_C - Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_C1 - Salaries and Wages - Permanent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_C3 - Fringe Benefits",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"DE_C5 - Other Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"EB_SBC - Stock Base Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"GM000000 - Gross Margin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92315300 - (GAIN)/LOSS ON FOREIGN EXCHANGE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92315600 - ALL OTHER EXPENSE - NO REVALUE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"93000000 - PROVISION - INCOME TAXES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92315100 - (GAIN)/LOSS ON DISPOSITION",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"95000000 - NON-OPERATING INCOME/EXPENSE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92311200 - INCENTIVE COMPENSATION PLANS - SHORT TERM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"54000000 - OTHER MANUFACTURING COSTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92315400 - CORPORATE ACTIONS & RESERVES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"92315200 - AMORTIZATION OF INTANGIBLES BTL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Statement",
+			"ComponentName":"AIP Cash Incentives",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"41000000 - REVENUE - GROSS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"45000000 - RETURNS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"46000000 - BILLED FREIGHT & HANDLING AND PASS THROUGH REVENUE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"51000000 - MANUFACTURING COST",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"52000000 - ROYALTY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"53000000 - DIRECT CHARGES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"Fringe Benefits - (DE_C3)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"Bonus and Commissions - ex SBC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B1 - Travel and Entertainment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B10 - Postage, Stationery, and Supplies",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B11 - Equipment Rental and Maintenance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B12 - Legal, Audit, and Professional Fees",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B14 - Edit, Mfg, Insurance, Reprod and Dupl",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B2 - Other Employee Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B3 - Temporary Help and Commissions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B4 - Samples",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B5 - Free with Order",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B6 - All Other Promotion",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B8 - Telephones and Data Processing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B9 - Misc Svcs and Other Office Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_C1 - Salaries and Wages - Permanent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_C3 - Fringe Benefits",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_C5 - Other Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"EB_CHGDEF - Change in Deferred",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"S0000000 - ENCF GAAP EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"S1000000 - ENCF EBITDA - Post Plate Adjusted",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"S2000000 - ENCF Less: Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"S3000000 - ENCF Less: Change in Deferred",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"S4000000 - ENCF Less: Change in Deferred Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA110000 - ENCF Gross Margin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA111000 - ENCF Cash Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA112000 - ENCF Cost of Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA112100 - ENCF Change in Deferred Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA122000 - ENCF Total Expense After Allocations & Liquidations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA122100 - ENCF Total Expense Before Allocations & Liquidations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA122110 - ENCF Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA122200 - ENCF Segment Allocations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA122300 - ENCF IPG, CSS & Other Allocations & Transfers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA123100 - ENCF Provisions for Reserves",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA123200 - ENCF Other Income Regular",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA123300 - ENCF Other Income Foreign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SA123400 - ENCF All Other Mics Income/Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SADE_B16 - ENCF (ALT DE_BE16) All Other Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SADE_B17_1_3 - ENCF Occ. and Maint. - TSA Rent with All Other Rent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SC100000 - ENCF Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV100000 - ENCF Less: Interest Income/Expense - Net",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV300000 - ENCF Less: Depreciation, Amortization & Plate Investment Amortization",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV400000 - ENCF Less: Stock Based Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SVB00000 - ENCF Net Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"DE_B15 - Carriage and Warehouse Charges",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV600000 - ENCF Less: Asset/Legal Entity Dispositions Gain/Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV200000 - ENCF Less: Provision - Income Taxes",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV800000 - ENCF Less: Non-Operating Gain/Loss on Sale",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"54000000 - OTHER MANUFACTURING COSTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SVC00000 - ENCF Net Income Adjustments (PA/IMO/Hold Co/Other)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV700000 - ENCF Less: Dividends to Non Controlling Interest",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"SV500000 - ENCF Less: Aleks",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA",
+			"ComponentName":"AIP Cash Incentives",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"CR - Cash Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"CR153 - Cash Revenue Traditional Print and Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"CR2 - Cash Revenue - Digital",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"CR4 - Cash Revenue - Custom Print",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"DRREV - Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"DRREV1 - Revenue - Traditional Print",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"DRREV2 - Revenue - Digital",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"DRREV3 - Revenue - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"DRREV4 - Revenue - Custom Print",
+			"Weight":1
+		},
+		{
+			"ParentName":"Supplemental Revenue",
+			"ComponentName":"DRREV5 - Revenue - Custom Digital",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"40000000 - REVENUE - NET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"41000000 - REVENUE - GROSS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"45000000 - RETURNS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"46000000 - BILLED FREIGHT & HANDLING AND PASS THROUGH REVENUE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"51000000 - MANUFACTURING COST",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"52000000 - ROYALTY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"53000000 - DIRECT CHARGES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"EB_CHGDEF - Change in Deferred",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"EBITDA_DPG - Digital Platforms Group",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"EBITDA_DPG_INDIRECT - DPG Indirect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"EBITDA_INDIRECT_SERVICE_TOT - Indirect Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"EBITDA_IT_DIRECT - IT Direct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"EBITDA_IT_INDIRECT - IT Indirect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"R1000000 - EBFR EBITDA - Post Plate Adjusted",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA100000 - EBFR Income from Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA110000 - EBFR Gross Margin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA111000 - EBFR Cash Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA112000 - EBFR Cost of Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA112100 - EBFR Change in Deferred Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122000 - EBFR Total Expense After Allocations & Liquidations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122100 - EBFR Marketing / Selling",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122200 - EBFR Samples",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122300 - EBFR Editorial / EDP / Mechanical",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122400 - EBFR Digital Platforms Group",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122500 - EBFR Administrative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122600 - EBFR Technology",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA122700 - EBFR Direct Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA123100 - EBFR Provisions for Reserves",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA123200 - EBFR Other Income Regular",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA123300 - EBFR Other Income Foreign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RA123400 - EBFR All Other Mics Income/Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"RC100000 - EBFR Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"EBITDA_DIRECT_SERVICE_TOT - Direct Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"Functional EBITDA",
+			"ComponentName":"54000000 - OTHER MANUFACTURING COSTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"PTOTFXPW - Filled excluding Project Workers",
+			"Weight":1
+		},
+		{
+			"ParentName":"BU Headcount",
+			"ComponentName":"PTOTFPW - Filled Project Workers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"R1000000 - EBFR EBITDA - Post Plate Adjusted",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"RA100000 - EBFR Income from Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"RC100000 - EBFR Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF200000 - CF Cash Source / (Use) from WC excluding U/E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF210000 - CF (Incr) decr in Accounts Receivables",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF220000 - CF (Incr) decr in Inventory",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF230000 - CF (Incr) decr in Prepaid & Other Current Assets",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF240000 - CF Incr (decr) in Accounts Payable",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF250000 - CF Incr (decr) in Accrued Royalty",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF260000 - CF Incr (decr) in Accrued Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF270000 - CF Incr (decr) in Other Current Liabilities",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF300000 - CF Operating Free Cash Flow",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF320000 - CF Gross Deferred Projects",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF400000 - CF Operating FCF with Cash Taxes and Adj.",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF500000 - CF Levered Free Cash Flow",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF600000 - CF Total Free Cash Flow",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF001 - CF Cash Taxes (Paid) / Received",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF018 - CF Maxen Sale",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF019 - CF BUSUU Investment (EMEA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF330000 - CF Capital Expenditures",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"10100000 - CASH AND EQUIVALENTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF003 - CF Cash Interest (Paid) - Debt",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF004 - CF Cash Interest (Paid) - HoldCo Notes",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF005 - CF Principal payments on Term Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF010 - CF RSU Holder Dividend Payments",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF012 - CF Option Holder Dividend Payments",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF016 - CF Equity Repurchase",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF110000 - CF Adding Back IMO & HoldCo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF310000 - CF Capital Lease Principal Payments",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF510000 - CF Cash Interest (Paid) - Capital Leases",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF002 - CF Adjustments",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF006 - CF Principal payments on MHGE Parent Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF007 - CF Interest Rate Swaps",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF025 - CF MHGE Parent Loan Payment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF028 - CF Opco / Holdco Transfer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF008 - CF Revolver Borrowing/(Repayment)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"VCF610000 - CF Legacy MHF Long-Term Incentive Payout",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF026 - CF International Cash Repatriation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF009 - CF Dividend Payments",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF013 - CF Net Proceeds on Long Term Debt",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF014 - CF Payment on Long Term Debt",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF015 - CF Author Royalty Buyout",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF027 - CF Redbird",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF017 - CF China EDU Sale",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF024 - CF Acquisition: Ryerson",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF020 - CF Acquisition: ALEKS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF022 - CF Acquisition: A9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Free Cash Flow",
+			"ComponentName":"NONGLCF023 - CF Acquisition: Engrade",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"41000000 - REVENUE - GROSS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"45000000 - RETURNS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"46000000 - BILLED FREIGHT & HANDLING AND PASS THROUGH REVENUE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"51000000 - MANUFACTURING COST",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"52000000 - ROYALTY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"53000000 - DIRECT CHARGES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"Fringe Benefits - (DE_C3)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"All Other Bonus & Commissions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CDE_B8 - CONTRA Telephone and Data Processing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CS0000000 - CONTRA ENCF GAAP EBITDA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CS1000000 - CONTRA ENCF EBITDA - Post Plate Adjusted",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CS2000000 - CONTRA ENCF Less: Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CS3000000 - CONTRA ENCF Less: Change in Deferred",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CS4000000 - CONTRA ENCF Less: Change in Deferred Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA110000 - CONTRA ENCF Gross Margin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA111000 - CONTRA ENCF Cash Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA112000 - CONTRA ENCF Cost of Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA112100 - CONTRA ENCF Change in Deferred Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA122000 - CONTRA ENCF Total Expense After Allocations & Liquidations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA122100 - CONTRA ENCF Total Expense Before Allocations & Liquidations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA122110 - CONTRA ENCF Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA122200 - CONTRA ENCF Segment Allocations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA122300 - CONTRA ENCF IPG, CSS & Other Allocations & Transfers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA123100 - CONTRA ENCF Provisions for Reserves",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA123200 - CONTRA ENCF Other Income Regular",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA123300 - CONTRA ENCF Other Income Foreign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSA123400 - CONTRA ENCF All Other Mics Income/Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSADE_B16 - CONTRA ENCF (ALT DE_BE16) All Other Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSADE_B17_1_3 - CONTRA ENCF Occ. and Maint. - TSA Rent with All Other Rent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSC100000 - CONTRA ENCF Plate Investment Cash Costs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV100000 - CONTRA ENCF Less: Interest Income/Expense - Net",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV300000 - CONTRA ENCF Less: Depreciation, Amortization & Plate Investment Amortization",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV400000 - CONTRA ENCF Less: Stock Based Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSVB00000 - CONTRA ENCF Net Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B1 - Travel and Entertainment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B10 - Postage, Stationery, and Supplies",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B11 - Equipment Rental and Maintenance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B12 - Legal, Audit, and Professional Fees",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B14 - Edit, Mfg, Insurance, Reprod and Dupl",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B2 - Other Employee Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B3 - Temporary Help and Commissions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B4 - Samples",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B5 - Free with Order",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B6 - All Other Promotion",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B9 - Misc Svcs and Other Office Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_C1 - Salaries and Wages - Permanent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_C3 - Fringe Benefits",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_C5 - Other Compensation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"EB_CHGDEF - Change in Deferred",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV600000 - CONTRA ENCF Less: Fixed Asset/Legal Entity Disposition Gain/Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"DE_B15 - Carriage and Warehouse Charges",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV200000 - CONTRA ENCF Less: Provision - Income Taxes",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV800000 - CONTRA ENCF Less: Non-Operating Gain/Loss on Sale",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"54000000 - OTHER MANUFACTURING COSTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSVC00000 - CONTRA ENCF Net Income Adjustments (PA/IMO/Hold Co/Other)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV700000 - CONTRA ENCF Less: Dividends to Non Controlling Interest",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"CSV500000 - CONTRA ENCF Less: Aleks",
+			"Weight":1
+		},
+		{
+			"ParentName":"Natural Class EBITDA with Contr",
+			"ComponentName":"AIP Cash Incentives",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"ACC_ROY - Accrued Royalties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"ACCT_PAY - Accounts Payable",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"AR_NR_NET - Accounts & Notes Receivable - Net",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"TOT_INV_NET - Total Inventories - Net",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"WC_ACC_COMP_RET - Accrued Compensation and Retirement Plans",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"WC_Net - Net Working Capital Assets/(Liab)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"WC_Net_excl - Net Working Capital Ex. U/E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"WC_PPD_OTH - Prepaid & Other Current Assets",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"WC_TOT_CURRLIAB_OTHER - Total Other Current Liabilities",
+			"Weight":1
+		},
+		{
+			"ParentName":"Working Capital",
+			"ComponentName":"WC_UNREV - Unearned Revenue",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

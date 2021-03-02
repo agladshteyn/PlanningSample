@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Parallax",
+	"Expression":"{[plan_time].[Feb-2004],[plan_time].[Mar-2004],[plan_time].[Apr-2004],[plan_time].[May-2004],[plan_time].[Jun-2004],[plan_time].[Jul-2004],[plan_time].[Aug-2004],[plan_time].[Sep-2004],[plan_time].[Oct-2004],[plan_time].[Nov-2004],[plan_time].[Dec-2004]}"
+}

@@ -1,0 +1,204 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Staples_m",
+	"Elements":
+	[
+		{
+			"Name":"Prod Type4",
+			"Type":"String"
+		},
+		{
+			"Name":"Item Count",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ship Priority",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Order Priority",
+			"Type":"String"
+		},
+		{
+			"Name":"Order Status",
+			"Type":"String"
+		},
+		{
+			"Name":"Order Quantity",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Total",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Discount",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tax Rate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ship Mode",
+			"Type":"String"
+		},
+		{
+			"Name":"Fill Time",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gross Profit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Price",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ship Handle Cost",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Employee Name",
+			"Type":"String"
+		},
+		{
+			"Name":"Employee Dept",
+			"Type":"String"
+		},
+		{
+			"Name":"Manager Name",
+			"Type":"String"
+		},
+		{
+			"Name":"Employee Yrs Exp",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Employee Salary",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Name",
+			"Type":"String"
+		},
+		{
+			"Name":"Customer State",
+			"Type":"String"
+		},
+		{
+			"Name":"Call Center Region",
+			"Type":"String"
+		},
+		{
+			"Name":"Customer Balance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Segment",
+			"Type":"String"
+		},
+		{
+			"Name":"Prod Type1",
+			"Type":"String"
+		},
+		{
+			"Name":"Prod Type2",
+			"Type":"String"
+		},
+		{
+			"Name":"Prod Type3",
+			"Type":"String"
+		},
+		{
+			"Name":"Product Name",
+			"Type":"String"
+		},
+		{
+			"Name":"Product Container",
+			"Type":"String"
+		},
+		{
+			"Name":"Ship Promo",
+			"Type":"String"
+		},
+		{
+			"Name":"Supplier Name",
+			"Type":"String"
+		},
+		{
+			"Name":"Supplier Balance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supplier Region",
+			"Type":"String"
+		},
+		{
+			"Name":"Supplier State",
+			"Type":"String"
+		},
+		{
+			"Name":"Order ID",
+			"Type":"String"
+		},
+		{
+			"Name":"Order Year",
+			"Type":"String"
+		},
+		{
+			"Name":"Order Month",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Order Day",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Order Date",
+			"Type":"String"
+		},
+		{
+			"Name":"Order Quarter",
+			"Type":"String"
+		},
+		{
+			"Name":"Product Base Margin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product ID",
+			"Type":"String"
+		},
+		{
+			"Name":"Receive Time",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Received Date",
+			"Type":"String"
+		},
+		{
+			"Name":"Ship Date",
+			"Type":"String"
+		},
+		{
+			"Name":"Ship Charge",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Cycle Time",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product In Stock",
+			"Type":"String"
+		},
+		{
+			"Name":"Market Segment",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

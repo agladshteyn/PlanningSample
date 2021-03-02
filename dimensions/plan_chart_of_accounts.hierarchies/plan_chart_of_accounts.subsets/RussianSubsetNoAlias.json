@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"RussianSubsetNoAlias",
+	"Expression":"{ tm1filterbypattern ( { tm1subsetall ( [plan_chart_of_accounts] ) }, \"Revenue\"  )  }"
+}

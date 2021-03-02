@@ -1,0 +1,29 @@
+{
+	"@type":"Cube",
+	"Name":"zTableau",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('z_BU')"
+		},
+		{
+			"@id":"Dimensions('z_Account')"
+		},
+		{
+			"@id":"Dimensions('z_Hierarchy')"
+		},
+		{
+			"@id":"Dimensions('mheScenario')"
+		},
+		{
+			"@id":"Dimensions('mheYear')"
+		},
+		{
+			"@id":"Dimensions('mheMonth')"
+		},
+		{
+			"@id":"Dimensions('z_Version')"
+		}
+	],
+	"Views@Code.links":[]
+}

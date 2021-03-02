@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Account Product",
+	"Elements":
+	[
+		{
+			"Name":"test1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"test3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"test2",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

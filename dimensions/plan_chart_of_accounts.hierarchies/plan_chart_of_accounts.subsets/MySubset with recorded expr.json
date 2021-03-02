@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"MySubset with recorded expr",
+	"Expression":"{TM1FILTERBYPATTERN( {TM1SubsetBasis()}, \"*61010*\")}"
+}

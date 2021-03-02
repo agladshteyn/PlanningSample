@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"MySubset with alias",
+	"Expression":"{TM1FILTERBYPATTERN( {TM1SubsetBasis()}, \"*Bank Charges*\")}"
+}

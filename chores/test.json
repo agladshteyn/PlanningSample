@@ -1,0 +1,32 @@
+{
+	"@type":"Chore",
+	"Name":"test",
+	"StartTime":"2019-01-17T21:25:16Z",
+	"ExecutionMode":"SingleCommit",
+	"Frequency":"P1DT00H00M00S",
+	"Tasks":
+	[
+		{
+			"Step":0,
+			"Parameters":
+			[
+				{
+					"Name":"pCubeName",
+					"Value":"b"
+				},
+				{
+					"Name":"pDim1",
+					"Value":"c"
+				},
+				{
+					"Name":"pFileName",
+					"Value":"a"
+				}
+			],
+			"Process":
+			{
+				"@id":"Processes('Export Partition')"
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"@type":"Hierarchy",
+	"Name":"plan_controls",
+	"Elements":
+	[
+		{
+			"Name":"Test Elem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Plan Control 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Source",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"test elem2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Currency",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Plan Control 2",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"plan_controls.subsets/All Elements.json",
+		"plan_controls.subsets/Default.json"
+	]
+}

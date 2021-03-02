@@ -1,0 +1,26 @@
+{
+	"@type":"Process",
+	"Name":"test",
+	"Code@Code.link":"test.ti",
+	"DataSource":
+	{
+		"Type":"ODBC",
+		"dataSourceNameForClient":"TM1Connect Sample",
+		"dataSourceNameForServer":"TM1Connect Sample",
+		"password":"cA2i@KM@xJgy8Dt1Hdk5u;CdpX_WbWKb9yngq]2hK8XFx3Q]?4ZDpoZgnmjInp2B3jf62uZq?_[?77Or8irsBfi\\198b9soj9izeKpSN_xaOEu5BC<I4^ElNE5WDSjwuEnA4nOCGUiPiUoyEzWZ6AUN^myoVCMTrTN2bzwJTHi8P8aO3KilOKX]B8Rs[J:Q2QZ8g4Nf^",
+		"query":"select * from MyTestView",
+		"userName":"agladshteyn",
+		"usesUnicode":true
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"V1",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

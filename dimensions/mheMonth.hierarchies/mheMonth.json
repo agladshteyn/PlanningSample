@@ -1,0 +1,2160 @@
+{
+	"@type":"Hierarchy",
+	"Name":"mheMonth",
+	"Elements":
+	[
+		{
+			"Name":"HasData",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Year",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Opening Balance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Qtr 1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Feb YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Feb QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Feb",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mar YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Mar QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Mar",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Apr YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Apr QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Qtr 2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Apr",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"May YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"May QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"May",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Jun YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jun QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jun",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Jul YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jul QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Qtr 3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jul",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aug YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Aug QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Aug",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sep YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sep QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sep",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Oct YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Oct QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Qtr 4",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Oct",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Nov YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Nov QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Nov",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dec YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Dec QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Dec",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NOV REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"OCT REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SEP REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AUG REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"JUL REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"JUN REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MAY REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"APR REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MAR REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"FEB REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"P13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"P13 YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jan YTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jan QTD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SuppressCheck",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Year wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jan - Jun",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jul - Dec",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"JAN REM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jan YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Feb YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Mar YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Apr YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"May YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jun YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Jul YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Aug YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sep YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Oct YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Nov YTD wo Opening Balance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Dec YTD wo Opening Balance",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Opening Balance",
+			"Weight":-1.89794599999999991
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Jan",
+			"Weight":1.25689790000000001
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Feb",
+			"Weight":-1.56597900000000001
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Mar",
+			"Weight":1.89794653000000002
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Apr",
+			"Weight":-1.2564689
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"May",
+			"Weight":1.32656979999999991
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Jun",
+			"Weight":-1.26569770000000004
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Jul",
+			"Weight":-1.23564798999999992
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Aug",
+			"Weight":1.23265688999999989
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Sep",
+			"Weight":1.25698700000000008
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Oct",
+			"Weight":1.05997966499999996
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Nov",
+			"Weight":-1.89795629999999993
+		},
+		{
+			"ParentName":"HasData",
+			"ComponentName":"Dec",
+			"Weight":1.74125890000000005
+		},
+		{
+			"ParentName":"Year",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Year",
+			"ComponentName":"Qtr 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Year",
+			"ComponentName":"Qtr 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Year",
+			"ComponentName":"Qtr 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Year",
+			"ComponentName":"Qtr 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 1",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 1",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 1",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Feb YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Feb YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Feb YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Feb QTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Feb QTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar QTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar QTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar QTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr QTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 2",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 2",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 2",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"May QTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"May QTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun QTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun QTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun QTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul QTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 3",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 3",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 3",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug QTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug QTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep QTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep QTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep QTD",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct QTD",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 4",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 4",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"Qtr 4",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov QTD",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov QTD",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec QTD",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec QTD",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec QTD",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"NOV REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCT REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCT REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"SEP REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"SEP REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"SEP REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"AUG REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"AUG REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"AUG REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"AUG REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUL REM",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUL REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUL REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUL REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUL REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUN REM",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUN REM",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUN REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUN REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUN REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"JUN REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAY REM",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAY REM",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAY REM",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAY REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAY REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAY REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAY REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"APR REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"MAR REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEB REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"P13 YTD",
+			"ComponentName":"P13",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Jan YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Feb YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Mar YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Apr YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"May YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Jun YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Jul YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Aug YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Sep YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Oct YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Nov YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"Dec YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"YTD",
+			"ComponentName":"P13 YTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"Jan YTD",
+			"ComponentName":"Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jan YTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Jan QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Feb QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Mar QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Apr QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"May QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Jun QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Jul QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Aug QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Sep QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Oct QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Nov QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"QTD",
+			"ComponentName":"Dec QTD",
+			"Weight":0
+		},
+		{
+			"ParentName":"Jan QTD",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Opening Balance",
+			"Weight":-1.89794599999999991
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Jan",
+			"Weight":1.25689790000000001
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Feb",
+			"Weight":-1.56597900000000001
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Mar",
+			"Weight":1.89794653000000002
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Apr",
+			"Weight":-1.2564689
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"May",
+			"Weight":1.32656979999999991
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Jun",
+			"Weight":-1.26569770000000004
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Jul",
+			"Weight":-1.23564798999999992
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Aug",
+			"Weight":1.23265688999999989
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Sep",
+			"Weight":1.25698700000000008
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Oct",
+			"Weight":1.05997966499999996
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Nov",
+			"Weight":-1.89795629999999993
+		},
+		{
+			"ParentName":"SuppressCheck",
+			"ComponentName":"Dec",
+			"Weight":1.74125890000000005
+		},
+		{
+			"ParentName":"Year wo Opening Balance",
+			"ComponentName":"Jan - Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Year wo Opening Balance",
+			"ComponentName":"Jul - Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jan - Jun",
+			"ComponentName":"Qtr 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jan - Jun",
+			"ComponentName":"Qtr 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul - Dec",
+			"ComponentName":"Qtr 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul - Dec",
+			"ComponentName":"Qtr 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Jan YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Feb YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Mar YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Apr YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"May YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Jun YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Jul YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Aug YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Sep YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Oct YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Nov YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"YTD wo Opening Balance",
+			"ComponentName":"Dec YTD wo Opening Balance",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"JAN REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"FEB REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"MAR REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"APR REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"MAY REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"JUN REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"JUL REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"AUG REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"SEP REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"OCT REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"REM",
+			"ComponentName":"NOV REM",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAN REM",
+			"ComponentName":"Dec",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jan YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Feb YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Feb YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mar YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Apr YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"May YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jun YTD wo Opening Balance",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD wo Opening Balance",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Jul YTD wo Opening Balance",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aug YTD wo Opening Balance",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sep YTD wo Opening Balance",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Oct YTD wo Opening Balance",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Nov YTD wo Opening Balance",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Jan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Feb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Mar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Apr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"May",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Jun",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Jul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Aug",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Sep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Oct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Nov",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dec YTD wo Opening Balance",
+			"ComponentName":"Dec",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

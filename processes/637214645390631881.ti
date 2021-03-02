@@ -1,0 +1,18 @@
+#region Prolog
+vFileName = '3c1f6295-b011-4cf9-b085-c79fb0c07260.blb';
+DatasourceASCIIDelimiter = ';';
+ViewExtractSkipCalcsSet('plan_BudgetPlan','637214645377709895',0);
+ViewExtractSkipRuleValuesSet('plan_BudgetPlan','637214645377709895',0);
+ViewExtractSkipZeroesSet('plan_BudgetPlan','637214645377709895',1);
+#endregion
+#region Data
+vVal = value;
+IF ( DTYPE( 'plan_time', col7) @= 'N' % DTYPE( 'plan_time', col7) @= 'C');
+vVal = NumberToString(NUMBR(value));
+ENDIF;
+vStr = TRIM(STR(DIMIX( 'plan_chart_of_accounts', col4 ),8,0)) | ',' |
+TRIM(STR(DIMIX( 'plan_time', col7 ),8,0));
+vOutput = vStr | '";"' | vVal | CHAR(3);
+SetOutputCharacterSet(vFileName, 'TM1CS_UTF8');
+TextOutput(vFileName, vOutput);
+#endregion

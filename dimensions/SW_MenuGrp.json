@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"SW_MenuGrp",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('SW_MenuGrp')/Hierarchies('SW_MenuGrp')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"SW_MenuGrp.hierarchies/SW_MenuGrp.json"
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Test no alias",
+	"Expression":"{TM1FilterByPattern ({ TM1SubsetAll ([plan_chart_of_accounts])}, \"61010\")}"
+}
